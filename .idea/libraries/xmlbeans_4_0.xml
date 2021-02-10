@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="xmlbeans-4.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-4.0.0" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-4.0.0/javadocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-4.0.0/maven-plugin/src/java" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-4.0.0/samples/Any/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-4.0.0/samples/DateTime/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-4.0.0/samples/MixedContent/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-4.0.0/samples/OrderMatters/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-4.0.0/samples/SampleTemplate/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-4.0.0/samples/SchemaEnum/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-4.0.0/samples/Validation/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-4.0.0/samples/XQueryXPath/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-4.0.0/samples/XmlSort/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-4.0.0/samples/XmlTree/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-4.0.0/samples/XsdConfig/src" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-4.0.0/samples/vxsdb/src/java" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-4.0.0/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-4.0.0/src/test/java" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-4.0.0/src/test/resources/xbean/compile/scomp/schemacompiler" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-4.0.0/src/test/resources/xbean/marshal" />
+      <root url="file://$USER_HOME$/Downloads/xmlbeans-4.0.0/test/perf/src" />
+    </SOURCES>
+  </library>
+</component>
